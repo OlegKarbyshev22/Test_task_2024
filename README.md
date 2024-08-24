@@ -5,6 +5,9 @@
 
 Этот проект представляет собой автоматизированное тестирование формы регистрации на сайте demoqa.com с использованием Selenium WebDriver. Реализован на языке Python с использованием фреймворка pytest, а также использует паттерн проектирования Page Object Model (POM).
 
+Версия Python: 3.11
+Версия Chromedriver: 128.0.6613.85
+
 Установка проекта:
 1) git clone https://github.com/OlegKarbyshev22/Test_task_2024.git
 2) cd Test_task_2024
